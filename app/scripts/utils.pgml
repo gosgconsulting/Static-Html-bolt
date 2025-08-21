@@ -1,0 +1,19 @@
+# PGML (Podemos Generar Markdown Language) Utility Functions
+
+## Math Functions
+
+### Calculate Area
+area = length * width
+
+### Calculate Volume
+volume = length * width * height
+
+## String Functions
+
+### Format Name
+full_name = first_name + " " + last_name
+
+## Date Functions
+
+### Format Date
+formatted_date = year + "-" + month + "-" + day

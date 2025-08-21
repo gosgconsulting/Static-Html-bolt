@@ -1,0 +1,16 @@
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /* Color Palette */
+    --primary: #9E7FFF;
+    --secondary: #38bdf8;
+    --accent: #f472b6;
+    --background: #171717;
+    --surface: #262626;
+    --text: #FFFFFF;
+    --text-secondary: #A3
